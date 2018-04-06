@@ -1,0 +1,7 @@
+#include<stdio.h>
+#include<pthread.h>
+#include<semphore.h>
+int main()
+{
+pthread_t p[10];
+
